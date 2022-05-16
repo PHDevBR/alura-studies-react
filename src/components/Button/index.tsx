@@ -1,5 +1,5 @@
 import React from "react";
-import './styles.scss'
+import './style.scss'
 
 class Button extends React.Component {
     render() {
