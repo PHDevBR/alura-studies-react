@@ -29,10 +29,11 @@ class Form extends React.Component {
                         id="time"
                         min="00:00:00"
                         max="01:30:00"
+                        value="00:01:00"
                         required
                     />
                 </div>
-                <Button />
+                <Button text="Adicionar" />
             </form>
         )
     }
